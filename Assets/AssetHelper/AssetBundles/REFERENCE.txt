@@ -1,0 +1,4 @@
+﻿1.	https://docs.unity3d.com/Manual/AssetBundlesIntro.html
+2.	http://gad.qq.com/college/articledetail/43
+3.	http://blog.shuiguzi.com/2015/11/10/AssetBundleAndABManage_1/
+	http://blog.shuiguzi.com/2015/11/11/AssetBundleAndABManage_2/
